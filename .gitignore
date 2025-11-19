@@ -1,4 +1,4 @@
-# Cache and machine-specific fiels
+# Cache and machine-specific files
 .cache/
 *.log
 .DS_Store
