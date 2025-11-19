@@ -1,0 +1,7 @@
+# Cache and machine-specific fiels
+.cache/
+*.log
+.DS_Store
+zsh/ .zsh_history
+zsh/ .zcompdump*
+
