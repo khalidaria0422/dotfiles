@@ -2,6 +2,8 @@
 .cache/
 *.log
 .DS_Store
-zsh/ .zsh_history
-zsh/ .zcompdump*
 
+zsh/.zsh_history
+zsh/.zcompdump*
+
+karabiner/automatic_backups/
