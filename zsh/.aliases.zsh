@@ -6,4 +6,5 @@ alias z.src="source ~/.dotfiles/zsh/.zshrc"
 
 # MISC
 alias cd.iui="cd ~/storage/education/college/iui/"
+alias cd.web="cd ~/storage/education/web_development/"
 
